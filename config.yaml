@@ -4,6 +4,6 @@ mysql:
   port: '3306'
   dbname: 'auto_devops'
   username: 'root'
-  password: 'devop#0626'
+  password: ''
   max_idle_conns: 10
   max_open_conns: 100
